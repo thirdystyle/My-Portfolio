@@ -62,7 +62,7 @@ span{
   background-clip: text;
   color: transparent;
 }
-.navbar a{font-size: 2rem;
+.navbar a{font-size: 1.6rem;
 color: var(--text-color);
 margin-left: 2.5rem;
 font-weight: 500;
