@@ -287,6 +287,9 @@ font-size: 1.8rem;
 }
 .about-content .btn{
   margin: 3rem 0;
+  height: 50px;
+  width: 220px;
+  font-size: x-large;
 
 }
 ::-webkit-scrollbar{
